@@ -1,0 +1,134 @@
+.center-shift {
+  text-align: center;
+}
+/* Page not found page style starts here  */
+.mainbox {
+  background-color: #95c2de;
+  margin: auto;
+  height: 70%;
+  width: 100%;
+  position: relative;
+}
+.err {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 9rem;
+}
+.msg {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 2.5rem;
+}
+/* End of the style for page not found  */
+
+/* my footer styles  */
+.footerMain {
+  overflow: hidden;
+  margin-top: 10px;
+  background: #95c2de;
+  color: #000 !important;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
+  font-family: 'Rubik', sans-serif;
+  width: 100%;
+}
+small {
+  font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.bold-text {
+  color: #000 !important
+}
+
+.mt-55 {
+  margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.h3-text {
+  font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.social {
+  font-size: 21px !important
+}
+.rights {
+  font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+}
+/* end of the style for the footer page  */
+.figureText{
+  color: #fff !important;
+  width: 50%;
+  font-size: 18px !important;
+  margin: -120px auto;
+}
+.aboutHead{
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.aboutHead1{
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 10px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.aboutHead2{
+  color: brown;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 45px;
+}
+.aboutHead3{
+  color: brown;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  letter-spacing: 1px;
+  margin-top: -8px;
+  text-align: center;
+  font-size: 15px;
+}
+.choose1{
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 2px;
+}
+.choseMe {
+  margin-left: 10px;
+}
+.choseMe span{
+  color: brown;
+  margin-top: 5px;
+}
+.aboutIcons{
+  margin-top: 30px !important;
+}
+.aboutIcons div{
+  margin: 0 auto;
+  text-align: center;
+}
+.aboutIcons div i{
+  color: brown;
+  font-size: 50px;
+}
+.aboutIcons div p{
+  color: brown;
+  font-size: 20px;
+}
+/* the style for the about page  */
+
+/* this is the start of the service page style  */
+.serviceHead h4{
+  margin-top: 20px;
+  color: skyblue !important;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.serviceHead p{
+  color: #000 !important;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* this is the end of the service page style  */
+
